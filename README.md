@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm manugame</h1>
-<h3 align="center">A belgian java developper</h3>
+<h3 align="center">a Belgian Java Develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manugame" alt="manugame" /> </p>
 
