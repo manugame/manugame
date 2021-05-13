@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://discord.me/modcraftmc**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></p><p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manugame&show_icons=true&theme=dark" alt="manugame" /></p>
 
