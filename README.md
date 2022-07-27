@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manugame" alt="manugame" /> </p>
 
-- 🔭 I’m currently working on [ModcraftMC](https://github.com/modcraftmc)
+- 🔭 I’m currently working on [Satiscraftory](Recreation of Satisfaction in Minectaft)
 
-- 📫 How to reach me **https://discord.me/modcraftmc**
+- 📫 How to reach me **manougamé√2.1#9886 on Discord**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manugame&show_icons=true&theme=dark" alt="manugame" /></p>
