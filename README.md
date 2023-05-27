@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manugame" alt="manugame" /> </p>
 
-- 🔭 I’m currently working on Satiscraftory(Recreation of Satisfactory in Minectaft)
+- 🔭 I’m currently working on GoldenForge (https://github.com/GoldenForge/GoldenForge)
 
 - 📫 How to reach me **manougamé√2.1#9886 on Discord**
 
