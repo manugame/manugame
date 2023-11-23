@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on GoldenForge (https://github.com/GoldenForge/GoldenForge)
 
-- 📫 How to reach me **manougamé√2.1#9886 on Discord**
+- 📫 How to reach me **manoouuu on Discord**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manugame&show_icons=true&theme=dark" alt="manugame" /></p>
